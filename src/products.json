@@ -1,0 +1,5 @@
+[
+    {"id":1, "name":"Colgate Toothpaste", "description":"great toothpaste", "price": 2.5, "image": "a.png"},
+    {"id":2, "name":"Headshoulder Shampoo", "description":"great shampoo","price": 5.5, "image":"b.png"},
+    {"id":3, "name":"Aquafina Water", "description":"great water", "price": 1.5, "image":"c.png"}
+]

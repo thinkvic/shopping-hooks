@@ -1,0 +1,16 @@
+.container{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    margin:0.9%;
+    width:31.5%;
+}
+
+@media (max-width: 900px) {
+    .box{
+        width:100%;
+    }
+}
